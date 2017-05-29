@@ -1,6 +1,3 @@
-std_msgs/Header header
-geographic_msgs/GeoPoseStamped[] poses
-=======
 # Path through a route network.
 #
 # A path is a sequence of GeoPoints.
